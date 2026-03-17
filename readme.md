@@ -46,10 +46,5 @@ To check for new flyers every day at 10:00 AM, add this to your `crontab -e`:
 
 ## Disclaimer
 This project is for educational and personal use only. It is not affiliated with, authorized, maintained, sponsored, or endorsed by Lidl. Use responsibly and respect the host's `robots.txt` and rate limits.
-```
 
----
 
-### 💡 Quick Tips for GitHub:
-* **.gitignore**: Create a file named `.gitignore` and add `last_scanned_id.txt` and `__pycache__/` to it. You don't want your "memory" files tracking on GitHub.
-* **License**: Since you are making this public, consider adding an **MIT License** file so others know they can use and improve it.
