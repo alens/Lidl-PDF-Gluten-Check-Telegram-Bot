@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Local Memory
+last_scanned_id.txt
+lidl_temp.pdf
+debug_lidl.pdf
+
+# Logs
+*.log
+log.txt
+
+# Environment Secrets
+.env
